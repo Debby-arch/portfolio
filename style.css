@@ -1,0 +1,67 @@
+.jumbotron{
+    margin-bottom: 0;
+    }
+    .banner-1{
+        background-color:#00B7A1;
+        min-height:730px;
+    }
+    h1{
+        margin-top: 15rem;
+    }
+    
+    .navbar{
+        background-color:#00B7A1;
+    }
+    .navbar-nav a:hover {
+        background-color: white;
+        border-bottom: 3px solid black;
+        
+    }
+    
+    .navbar-nav a:hover{
+    
+        color: black !important;
+    }
+    .banner-2{
+        background-color: #013848 ;
+        min-height:730px;
+    }
+    .banner-3{
+        background-color: #013848;
+        min-height:300px;
+    }
+    .purple{
+        color: #00B7A1;
+    }
+    .profile-logo{
+    max-width: 10rem;
+    max-height: 10rem;
+    border-radius: 50%;
+    
+    }
+    .para{
+        color:#00B7A1;
+    }
+    
+    li {
+            line-height: 60px;
+        }
+        .profile-logo:hover{
+            transform: scale(1.2) rotate(360deg);
+            transition: all ease-in-out 250ms;
+          }
+         li{
+            color:#00B7A1;
+         }
+    li:hover{
+              color:white;
+          }
+          .form-inline > * {
+            margin:5px 40px;
+            margin-left: 6rem;
+         }
+         .card{
+            background-color:  #83dbd1;
+         }
+     
+       
